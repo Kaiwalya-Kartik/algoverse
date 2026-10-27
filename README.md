@@ -85,3 +85,13 @@ The course guidelines require: **GitHub repository, deployed application/build, 
 
 ## Originality and attributions
 AlgoVerse application code written as an original educational project. Google Fonts (DM Sans, Space Grotesk) are loaded optionally; system fallbacks are available if offline. No third-party visualization or UI framework is used.
+
+## 🎥 Project Demo Video
+
+Watch the complete AlgoVerse project demonstration:
+
+[Click Here to Watch AlgoVerse Demo](https://drive.google.com/file/d/12rUJCier_zBVwiUNmYU1mS5uTtloSDt5/view?usp=sharing)
+
+The demonstration covers the main features of AlgoVerse,
+including algorithm visualizations, coding challenges,
+user authentication, progress tracking, and the leaderboard.
